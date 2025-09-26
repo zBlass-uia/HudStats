@@ -1,0 +1,6 @@
+name: HudStats
+main: hudstats/Loader
+api: "2.0.0"
+version: "1.0"
+author: tizzi32
+description: "View your stats in moment of PvP Experience"
